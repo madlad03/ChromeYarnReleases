@@ -1,6 +1,6 @@
 {
   "version": "v1.2.0",
-  "notes": "Added tab and window switching",
+  "notes": "Added customizability of anti-idle",
   "pub_date": "2025-03-03T22:55:57.129Z",
   "platforms": {
     "windows-x86_64": {
