@@ -1,15 +1,19 @@
 {
-  "version": "v1.2.0",
-  "notes": "Added customizability of anti-idle",
-  "pub_date": "2025-03-03T22:55:57.129Z",
+  "version": "v1.2.1",
+  "notes": "Fixed tab switching not working when right clicked beforehand",
+  "pub_date": "2025-03-05T02:38:02.952Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHNjcEFXNGtocFluQktmekRwQWdqazZpMERoaUdQWi9uMFB6dzNmUzNaNjJiUXJsYjl5SFFnekpadVI5TnVyOTIybUtrd3RJNWJEWEw2bkYwNzYzc3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMDM5ODkzCWZpbGU6Y2hyb21lXzEuMi4wX3g2NF9lbi1VUy5tc2kKZnNxOFhrYy81SUovd1BsY3ErUnZTMTV0WUNPZWptS0JRcUFRK3psdzk2MGNocTJzSi9lNkRpeXJZZEZNVFV0NWFBTW51a3JCVjNMZEhkMklReE9PRHc9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.2.0/chrome_1.2.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGtkb05mUXdPSFpYYlVjMFhyeTNGSE5QK29ZNTRwTkRZcEZBTzltbHRPYmxSSlNKVW1zY0MwL3NCeURRcUh6Wk40QUVKMjhBQmdlOS9vOHpRKy8xTmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMTQyMDI5CWZpbGU6Y2hyb21lXzEuMi4xX3g2NF9lbi1VUy5tc2kKN05tNmt3RVEwOVFuUlhLMWsvTWdlVTJrUXhybyt5VG5Ra2I0cmIvZnZIS3R3d2YwaUw4WnFmZm8zeHpGUXFsbmNXMTRvNHNUL0J6S0hnLzJuRGhiQmc9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.2.1/chrome_1.2.1_x64_en-US.msi"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNG9FcnF6bXFucVM5ZlRFa0ZRRzJ2aGtqUEFpZFQydDZGcEc1Yk4yczRXTVlvSWRraVZpQktsTVo1b2RxZVA0TkhvOFI5S0o1bFNONElGV2ZReHIwWFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMDM5MjA4CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKbnU5MVU5QWhmQlhGcE5hSzJTS2VjQ0gxek1BT0xUR0luSGJvUlJRQTlSc3A1Z1c5TEhzRFdObGVQbGNJbVZRb2JQZUpqSG0ycEd4eHF3MWVNa2tBQ2c9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.2.0/chrome_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHZYeDVDcktKUHJTaGhQemxjVnBNektHYnRobWxhVml6NjFUTndWRHJNUW1qS25Jd05UYUtoSUVWeitxcmZlaG1TRWxYb2FMdXAwZWEvdk9PTnRYN0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMTQxMTU5CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKK1hPdU1VN2Z4bkE1dFcxQkI5VUszV0t6cFJ2R0xWWEsrMVBBRGZtT05jYXZOWHkxelF0Si9XSmpXUk9BQXBtc3ZLbWhUMWhoSlJWRmEzMmY3Tzg2QlE9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.2.1/chrome_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGdzcFlVclNINlpZVDdJN0s1d2dic2xDRC8yY0xvR1M1eCtiQjl3V2crdFFvNmQ0ZmQwVVFMSFVZYVluT282OVVoNEFUTU52TThoSUlYTFoyYmdvaXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMTQxMTgyCWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKUUNMbmkva0JDRUt1RjhWOWZ3TXNISWxBbDVwOFh5ZG94K01pZ3RESVovYkY5bVN3TGQvTkJNRmRXWmFBTE1nSmpNSFV2VlZNZWdLeHlaQ05nKy9KRGc9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.2.1/chrome_x64.app.tar.gz"
     }
   }
 }
