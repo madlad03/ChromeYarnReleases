@@ -1,19 +1,19 @@
 {
-  "version": "v1.3.2",
-  "notes": "All fields in the settings are no longer required to save the configuration",
-  "pub_date": "2025-06-03T23:08:09.233Z",
+  "version": "v1.3.0",
+  "notes": "Added scroller for anti-idle",
+  "pub_date": "2025-03-05T02:38:02.952Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHJnN2szQmJ2czVXUWdELzNibmRleExndi9xUkltMTVOc0pGeHlCWmJnaEZUTDhGbklLbDZraDNoSUFHR2c4emZxclZCMElhNWNPZkkvWXRqb09pOVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4OTkwMjMyCWZpbGU6Y2hyb21lXzEuMy4yX3g2NF9lbi1VUy5tc2kKS3dtN0c0NC9kd1ZJcXl0Z01KSEFscjB1MlQyS0lvQkRhKzc2TFM3T1hTQUR2K0xBOUo2YVVhTzdnT1gwdC9vcm04eG9tcW04WWQxdkVSVWtnRm9tREE9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.2/chrome_1.3.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHNRaUEvLzFlYndkUlFPOFZzZWM1cnc0aDZVTVgzWW9ib01ScjlERHByUHVxN3BIOEVoVjg1VDhjcHMzNUptdWdjYVJpN0Ntay9xblpRQWI5R2MzemdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyMDQ0NTkxCWZpbGU6Y2hyb21lXzEuMy4wX3g2NF9lbi1VUy5tc2kKRG1wUFozQ29zV0NYYTJKV3h2TGVOYXg3ejEwVG4wMDdTODFSM05Qbms2ZHZxRjJYVXhnUmRTbU0rRnliZjBIbmUrUGZ0MUZUQTZqR1I0NzBaeFIvQXc9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.0/chrome_1.3.0_x64_en-US.msi"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHFNcnAvUWhzZG5zUEkxc0VsNGRIa0l1MThpR2pRRDc4ZmxpQ3VHdHBtWHFDM1IrK2huc1lhUnR1eFJhZndaUFhDNzZ4Y3JPZzBtb1JHQnQ1Nm5OM0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4OTg5NDMxCWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKWk1MQkxCNG9CMkJEMWFGVDJOdzBHbThNVEFhUEJEWVI4WGl6SjFKMVEwMUZPc0djUGN0THhDT3ZVVFRKMnhsNlhvbHI1cTQ2UWIrSnd5SjJ6eVJNREE9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.2/chrome_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGp3d2xqZllpWkovZDd6aSs2TGFLOWFaUmRnZ011bmNvbUZyZ3FSN0IrZDIxMGhwRUgvMkpQa0NlRE5UVm5LbmsvbDdHQy9YZVcyY0xvZkc3MTd5ZWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyMDQzOTU4CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKcWtwQ1hCVkdNT3hwalc3clo5T2ovVVV2WmZPVlRyQWtpd0tPOUVKU056NEx4ZktpNzlEY3pFdXd6Q0ViOUwrQUZOTmlLZ3N2a1hEVDVRbWE4RW9wQWc9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.0/chrome_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGtRaEF1SWQxWEMxcmtORVFwQXA3Y0FOdXBxaGpSY1ZGYTg2dGkvSEh5TUtXeTBVQTQ3T09rLzVoZ0FIMTNweE1Sb2JTYzA0S01jUm9lR0Q4MUVzMFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4OTg5NTM2CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKLzhIT0thZThOVmtBVjJiS2JZZjFIVVlDQU9mem84QTZBNEwvbmJsY1Y0MGw0OE9TUjkvMHhCTGdIT3M2MWZjWXZJNFE4dnUvWiszakFzdnhteTVHQUE9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.2/chrome_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGpxUWVyazFNSDZndVBqY1pIeEMrWkhuY2ZvUEdsYnNybzlMODBEQWVkWTZyaVlVZlZyNXdoRk9nWDhtMTdoTUFJTVlwM3lqWkI5Vk1LYXlkWER6T1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyMDQzOTQzCWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKQXJlaisvK2xaK1ZGRnVES1J4ZzdkcFlOb3d2RnM2VXArQXkwc0wvRkg5VTh1cTA5S2UxZzdXZlBBcVVleUpXUGRVSUgzc2ZOcWhobnc3MEdZQ2IzQ1E9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.0/chrome_x64.app.tar.gz"
     }
   }
 }
