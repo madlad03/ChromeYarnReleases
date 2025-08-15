@@ -1,5 +1,5 @@
 {
-  "version": "v1.3.0",
+  "version": "v1.3.2",
   "notes": "Added scroller for anti-idle",
   "pub_date": "2025-03-05T02:38:02.952Z",
   "platforms": {
@@ -8,8 +8,8 @@
       "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.0/chrome_1.3.0_x64_en-US.msi"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGp3d2xqZllpWkovZDd6aSs2TGFLOWFaUmRnZ011bmNvbUZyZ3FSN0IrZDIxMGhwRUgvMkpQa0NlRE5UVm5LbmsvbDdHQy9YZVcyY0xvZkc3MTd5ZWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyMDQzOTU4CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKcWtwQ1hCVkdNT3hwalc3clo5T2ovVVV2WmZPVlRyQWtpd0tPOUVKU056NEx4ZktpNzlEY3pFdXd6Q0ViOUwrQUZOTmlLZ3N2a1hEVDVRbWE4RW9wQWc9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.0/chrome_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNG9YUFNDWjZyZXVwZDJjWGpjc2hlcU5ZM3Y4ejhVT3J4VEFFVTdwTDZ0TzFxWXRkV25DZW4zbDN4emNKcVdiVmpTcmdoZ3E0WEJhK1RTTllacEJPb1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MjIyNzEzCWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKd2UxOE13c2RSMnpqanc1T0hwT1pMRjV3TzMzVHNUT1lSV21jZkpRbkFBWEdJeFRPZitmdDZRV0hwKzNuSHFqSWVJemNWY0VEVldKTTg1ekZGSnVtQlE9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.2/chrome_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGpxUWVyazFNSDZndVBqY1pIeEMrWkhuY2ZvUEdsYnNybzlMODBEQWVkWTZyaVlVZlZyNXdoRk9nWDhtMTdoTUFJTVlwM3lqWkI5Vk1LYXlkWER6T1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQyMDQzOTQzCWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKQXJlaisvK2xaK1ZGRnVES1J4ZzdkcFlOb3d2RnM2VXArQXkwc0wvRkg5VTh1cTA5S2UxZzdXZlBBcVVleUpXUGRVSUgzc2ZOcWhobnc3MEdZQ2IzQ1E9PQo=",
