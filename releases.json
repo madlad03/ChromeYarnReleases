@@ -1,19 +1,19 @@
 {
-  "version": "v1.3.5",
-  "notes": "Redirect to new subscription page.",
+  "version": "v1.3.6",
+  "notes": "Window is now hidden from screenshots & break time pause feature added",
   "pub_date": "2025-08-27T13:32:06.589Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGl6Mkl6YnYrd0JvdzNkMHpnZitCL1k2ZHNnZ0FSZTcvMHNCQzhRcUhOTWZ2dGhjV2ZFMnZBZ1ZLRWg3WTBSTnU4emVQSFF5ZTlJTURwWHBISzZnemc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2Mjk2MzQxCWZpbGU6Y2hyb21lXzEuMy41X3g2NF9lbi1VUy5tc2kKdDVmOVN4cTBFR3V5d1VSNXlxWUhrRmw4U3ZrQjNSbkNzaVNvc1dNMXlWdlJJOGtxY2Y2NWU1RGhFeno1ZEtZUlB2eExCcW9lU3VkSEl6TytScWpYQnc9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.5/chrome_1.3.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGpCK0gzTGlIWG1yRC9EVW9NTERvQmltZnJFcmo2MWRiRWRRSlExL0thRlRxdHhVOXcwUWVpQzV1NHpUWDFFV2xrWURUTUlZK3pyMTFmL25GOElIVEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDIwNzEzCWZpbGU6Y2hyb21lXzEuMy42X3g2NF9lbi1VUy5tc2kKT3BWTzRyVFFUWXNvZVljVmVBVFBQalhuZWNMcFp6SUlRMzk5bE5sbW00R1F6RW42Lyt1ZE5FSGUwTGlRT2Q1cXVJSElORm5xV21IREJYOUk0czRNQnc9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.6/chrome_1.3.6_x64_en-US.msi"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGhIaGQzamxPUkJNN0pRbi9saUNwKzI1MXVEWGZlcm9lSGNnczBzNm9DaFp6UEpHS1NtemdScyt5TzMxR2lxL3orS2JqWk1sakVTeHR5aU9sVnh6Q3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2Mjk1Njg3CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKNmJydXRxdGVJU0VBcTJsUit3Q0JQYkZaNkJUMXBWQ1JEaHc1a2JLcVdZdjhJSTEvWmdLaWxQQzVSN3ZmdTkvT2dEZmtOVHY1amlSaE9LNFZIUXZzQ1E9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.5/chrome_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNG8wZ0swTXpWSk9DTWNrWDBUZGpIRU5rVW5vYjBocjJOeEZML21LVy9LNVZoNWpUTW5BYmlsSWk4UnpVMkJSRDVYdjJxc1hHSWJjVkl5cDRQZWIrZXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDIwMDY2CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKZERxOU5BYTQyM1ZPSUdUNGN6ZVZFa0tBVzlQRkZBNzhkSnp3Vnc3b0hOMisxdFNEc1FKbVdMMUxFWkRZREhlb1FHY3NCdnlRYWRmdmJJVjRLZU1BQ0E9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.6/chrome_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHRZS085M0tIaVVqc05kTEt0SzhpZnh0cmtwTTNFZGczUnpxM2duMFZFUWkrVUc2dVhLNFdLNy9FaTNJUGxLWTNNNndRejM5dzRGQTIrdU01QVdFWkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2Mjk1NjQ5CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKYlQrWC9wWGhvM3VIQkdqRjBPRncxUlZpUGx6elZQRTlLQjdUZG5ONUZnTjZERXZPTDBkSDJTV0NIM1ppR3NpWEViazlOS0tkdWtsOHYrV01UbnhWREE9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.5/chrome_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGlzQ2FSRXQzR2NBYXFCNFpabVdNNllwWERnVkVHeXlsTjRvWGllL3J0RlB1ZlZ5L1dWVFN6bXY3ekhMRlBnZlJmRHZkV3F6TEdWOW82eGNtZDJwQUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDIwMDIxCWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKcjlROHpTMmJJQlR5M1dhUXlvRUk2MDNjeENTTFdBZlZZU1IwMG02dCt5V2JFTFplYnR0blJjSWtibmt2bU42NDZScUhuTHpXZWVlV1IxZEp3YXN5Q3c9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.3.6/chrome_x64.app.tar.gz"
     }
   }
 }
