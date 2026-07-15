@@ -1,19 +1,19 @@
 {
-  "version": "v1.4.0",
-  "notes": "Window is now hidden from screenshots & break time pause feature added",
-  "pub_date": "2026-06-14T08:37:28.521Z",
+  "version": "v1.4.1",
+  "notes": "Fixed an issue where deleting a recorded custom idle task did not trigger the default anti-idle actions.",
+  "pub_date": "2026-07-15T07:29:12.267Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNG84R0hLUHF2M3pNR1YrSUh6MGdjQ3c0S2hBb0xSVzEzckEzK2dmWXZXQnNrTVpWYWZKMjBmNzFGLzJFWGZyR1dhOTc3NitxOTd4NW1NS1FYOWswb1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDI1NjQ2CWZpbGU6Y2hyb21lXzEuNC4wX3g2NF9lbi1VUy5tc2kKakhkazkxa2pDQStWS1h3VVdLT2MvSEYrWTlGYjFyQXhRckR2ZExVbzRHVkhrSmRhYlFBMHR1cmpRYmNkdHB4UGJvUmNiSkFFUk4ydGtlalEwMW9vRHc9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.4.0/chrome_1.4.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHNJMmQ1S0dvWk5ZVTExZ3ZnVFlDN0M4Z29kdUl0L1JZNmtPT0VFRU1JUk1qNHRxUmVuTlFzQ2Fsb20xZEJZMm84bnRsdG5JdFBCQlB5MENjdjNJendrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDk5MjIyCWZpbGU6Y2hyb21lXzEuNC4xX3g2NF9lbi1VUy5tc2kKTjVHT0ttcXpSL3p0Y2gyM1RaVnR6b2o3UitkQUpTZ1MzTTEvQW5aem1DdmtwclpjamVPcW9mYXVqbDc1ZnIySEN5eWR2RnQ0NnI2Q2hLY0ViNUp0QXc9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.4.1/chrome_1.4.1_x64_en-US.msi"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHJuSEQ3Y2NxL0NlNTY0bUFaMmlUUTRLc0xYeWNSbTRmNTM3d1AzdHZRRExmcEFPQlhucDlhUkhyU0tMcnYyL2kyNm42WjlCMS9hRlFSRVp0aitBZ0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDI0OTI4CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKLytUZGM4UUVXdEFuS3VVSWlPZ0IwMTdTaDM0UWJLZnE5UXVETEZUaEIyOVJVRnNKeEYxUzZYVTdTS3BqdE44WnkvNW1IQTBEWnhSQTFmVVB3WG95Q2c9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.4.0/chrome_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNGxDZkhvUnZOM2FmU2lyOCticGVGNldnL0R0VTZRTksvaFg4S0JIaU5MUW4zWTdsNmlHUStGQUIyMEFHTWZXR3QwWUxzd29HRWZtUzRsdWlDSjRRakFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDk4NTc1CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKYWlpQWVkc1V2WmVRZkY1azhOZjhCZ3h4bXNTWC9SWDdRREp5T3ZaTFV0RVNETXZSN25QS3RPOS9rWFhjYVNiU3A2ZVI1bnpCazVyMkdDYWNNbVdtQ3c9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.4.1/chrome_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHI0eUtoYnZ5VWFDeXpEczVTYk96SXV0cUdYK0Z3K0kwLzZxWGlQYy84L3lMK3Z4KzhpWStaYUQwNVQxM2xwcGlrVkFjcktHencydGYyQytVQ0NmSlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDI0ODU4CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKelozUzFLT2NlK2lXeExZQjJLd0E4eFFrK1RhK1ZPRzhSZmd2bGI0SXhlaktmNE9vZEszL2NZUWNlOS9xd1ZvZ0NSUkZQWUpUb0hObnhsaWt3U3NwQmc9PQo=",
-      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.4.0/chrome_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUWwwSHMreWtRNHJob3FDWGRqV1RFZ2pTbnAwU0Y5UjNZUGFZdnV5UDJkeFVHM2FvOExleWpldHdpMThIRnlDalBhYkdvaDRqUEFVWW5ra1JpdUtRMkU1emxiaEpkelE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDk4NDc1CWZpbGU6Y2hyb21lLmFwcC50YXIuZ3oKSkdQKzlzMlg3c3h5b3NoU25HOGJnNjFoNmkyVElRZHYweStDUzJqRXJ6QTFOeXBtcDIyWDhjNis1bUR3cC8wYlIwdjVmY0gwV2cyb0ZkaW13bzZIQ1E9PQo=",
+      "url": "https://github.com/madlad03/ChromeYarnReleases/releases/download/v1.4.1/chrome_x64.app.tar.gz"
     }
   }
 }
